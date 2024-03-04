@@ -6,6 +6,7 @@ from lib.server import Server
 #   Need to start server before running tests
 # $ python3 run_server.py 127.0.0.1 8080
 
+#test change
 client = Client("http://localhost:8080")
 
 
